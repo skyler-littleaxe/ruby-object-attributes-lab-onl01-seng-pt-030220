@@ -26,5 +26,11 @@ snoopy.name = "Snoopy"
 snoopy.breed = "Beagle"
 
 class Person
+  def name
+    @name 
+  end
   
+  def @name
+
+end
 
